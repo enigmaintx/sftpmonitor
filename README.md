@@ -15,7 +15,9 @@ Required Dependencies: watchdog paramiko
 Setup Instructions:
 
 Create a directory to place the script in to run from.
+
 First Run: The application will create a sample config.ini file on first run
+
 Configure: Edit config.ini with your settings:
 
 Local directory to monitor
